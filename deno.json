@@ -6,5 +6,9 @@
     ],
     "include": [],
     "entrypoint": "main.ts"
+  },
+  "imports": {
+    "hono": "npm:hono@^4.7.5",
+    "zod": "npm:zod@^3.24.2"
   }
 }
