@@ -8,6 +8,7 @@
     "entrypoint": "main.ts"
   },
   "imports": {
+    "@anthropic-ai/sdk": "npm:@anthropic-ai/sdk@^0.39.0",
     "hono": "npm:hono@^4.7.5",
     "zod": "npm:zod@^3.24.2"
   }
